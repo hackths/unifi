@@ -1,9 +1,9 @@
 #!/bin/bash
 #
 #<UDF name="email" label="The email address used for LetsEncrypt:">
-# EMAIL=
+EMAIL= tom@reminga.com
 #<UDF name="hostname" label="The hostname for the new Linode:">
-# HOSTNAME=
+HOSTNAME= unifi.reminga.com
 #
 
 # update debian
